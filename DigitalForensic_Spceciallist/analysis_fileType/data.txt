@@ -1,0 +1,12 @@
+System Volume Information/WPSettings.dat
+  data
+  Image: Evidence.E01  Inode: 135
+
+signature(1).png
+  data
+  Image: Evidence.E01  Inode: 20
+
+$RECYCLE.BIN/$I5QZ51A.txt
+  data
+  Image: Evidence.E01  Inode: 152198
+

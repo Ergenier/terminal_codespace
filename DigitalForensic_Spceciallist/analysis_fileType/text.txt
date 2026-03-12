@@ -1,0 +1,8 @@
+USB_OWNER.txt
+  ASCII text, with no line terminators
+  Image: Evidence.E01  Inode: 12
+
+$RECYCLE.BIN/$R5QZ51A.txt
+  ASCII text, with no line terminators
+  Image: Evidence.E01  Inode: 152199
+

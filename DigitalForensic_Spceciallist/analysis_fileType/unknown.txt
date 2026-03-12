@@ -1,0 +1,8 @@
+code.pptx
+  ERROR:[gzip: ] (Microsoft PowerPoint 2007+)
+  Image: Evidence.E01  Inode: 14
+
+$RECYCLE.BIN/desktop.ini
+  Windows desktop.ini
+  Image: Evidence.E01  Inode: 152197
+
